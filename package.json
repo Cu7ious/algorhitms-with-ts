@@ -1,0 +1,21 @@
+{
+  "name": "algorhitms-with-ts",
+  "version": "1.0.0",
+  "description": "1. FizzBuzz.js - FizzBuzz problem 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fizzbuz": "ts-node src/FizzBuzz.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cu7ious/algorhitms-with-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cu7ious/algorhitms-with-ts/issues"
+  },
+  "homepage": "https://github.com/Cu7ious/algorhitms-with-ts#readme"
+}
