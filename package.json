@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "fizzbuz": "ts-node src/FizzBuzz.ts"
+    "fizzbuzz": "ts-node src/FizzBuzz.ts"
   },
   "repository": {
     "type": "git",
